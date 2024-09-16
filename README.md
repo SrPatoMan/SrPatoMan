@@ -1,4 +1,3 @@
 ## Hi there 👋
 
-<h1>HOLA ESTO ES UNA PRUEBA</h1>
-<marquee>Buenas soy SrPatoMan</marquee>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=SrPatoMan.+Pentesting+&+Bug+Bounty)](https://git.io/typing-svg)
