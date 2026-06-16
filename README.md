@@ -7,4 +7,4 @@
 </video>
 
 
-![Top Langs](https://vercel.app)
+[![Mis lenguajes más usados](https://vercel.app)](https://github.com)
