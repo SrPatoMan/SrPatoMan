@@ -7,4 +7,4 @@
 </video>
 
 
-[![Mis lenguajes más usados](https://vercel.app)](https://github.com)
+[![Mis lenguajes más usados](https://vercel.app)](https://github.com/anuraghazra/github-readme-stats)  
